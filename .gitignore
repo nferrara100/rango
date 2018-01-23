@@ -99,3 +99,8 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Rango Tests
+tango_with_django_project/rango/decorators.py
+tango_with_django_project/rango/test_utils.py
+tango_with_django_project/rango/tests_chapter*.py
